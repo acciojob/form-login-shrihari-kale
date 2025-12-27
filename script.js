@@ -8,4 +8,3 @@ function getFormvalue() {
     alert(fullName.trim());
 	}
 
-}
